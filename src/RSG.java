@@ -1,8 +1,8 @@
 import java.io.File;
-
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Scanner;
+/*--Program and Code by Sattyik Kundu--*/
 
 public class RSG {
 

@@ -1,4 +1,4 @@
-
+/*--Program and Code by Sattyik Kundu--*/
 public class RandomSentence {
 
 	static String bigText = "";

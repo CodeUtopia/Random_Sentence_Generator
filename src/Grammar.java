@@ -3,7 +3,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Scanner;
-
+/*--Program and Code by Sattyik Kundu--*/
 public class Grammar {
 
 	private String startSym = "";

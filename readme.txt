@@ -1,3 +1,5 @@
+The Program and Code was written by Sattyik Kundu.
+
 Please read this file to understand how this
 java program works. All the files can be 
 copied and pasted into a folder in the

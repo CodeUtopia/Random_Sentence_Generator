@@ -1,5 +1,5 @@
 Chuck Norris facts
-Created by Michael Siddall And Ta Wei Yi
+Created by Michael Siddall And Ta Wei Yi.
 
 {
 <start>
